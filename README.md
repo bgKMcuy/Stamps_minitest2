@@ -1,0 +1,1 @@
+# Stamps_minitest2
